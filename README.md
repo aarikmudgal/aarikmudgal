@@ -15,7 +15,7 @@
 
 Hi, I'm Aarik Mudgal, a passionate full-stack developer with expertise in Cloud and DevOps. I recently started playing/experimenting with RaspberryPi and looking for new project ideas.
   
-- 💼 any open-source ideas for Azure/GCP/RaspberryPi? reach me on Discord(humblepro#0712)
+- 💼 any open-source ideas for Azure/GCP/RaspberryPi? Feel free to reach me on LinkedIn.
 - 💬 ask me about anything, i am happy to help;
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarikmudgal&layout=compact"/>
