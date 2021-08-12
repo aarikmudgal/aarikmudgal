@@ -27,8 +27,8 @@
 </p>
 </br>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<img style="width: 25% !important" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <h3 align="left">Languages:</h3>
 
