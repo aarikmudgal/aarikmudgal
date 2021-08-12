@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=aarikmudgal.aarikmudgal" alt="aarikmudgal" /> </p>
 </br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarikmudgal" alt="aarikmudgal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarikmudgal&theme=onestar" alt="aarikmudgal" /></a> </p>
 
 - 🔭 I’m currently working on **Azure and RaspberryPi**
 
