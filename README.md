@@ -16,3 +16,4 @@ Hi, I'm Aarik Mudgal, a passionate full-stack developer with expertise in Cloud 
 - 💬 ask me about anything, i am happy to help;
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarikmudgal&layout=compact"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=aarikmudgal&theme=gotham"/>
