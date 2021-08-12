@@ -15,5 +15,5 @@ Hi, I'm Aarik Mudgal, a passionate full-stack developer with expertise in Cloud 
 - 💼 any open-source ideas for Azure/GCP/RaspberryPi? Feel free to reach me on LinkedIn.
 - 💬 ask me about anything, i am happy to help;
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarikmudgal&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarikmudgal&layout=compact&theme=gotham"/>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=aarikmudgal&theme=gotham"/>
