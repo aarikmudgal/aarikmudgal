@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aarik Mudgal</h1>
-<h3 align="center">Hi, I'm Aarik Mudgal, a passionate full-stack developer with expertise in Cloud and DevOps. I recently started playing/experimenting with RaspberryPi and looking for new project ideas.</h3>
+<h3 align="center">I am a passionate full-stack developer with expertise in Cloud and DevOps. I recently started playing/experimenting with RaspberryPi and looking for new project ideas.</h3>
 
 <a href="https://open.spotify.com/user/lcs99iwztqo54hxdac0gxbk3o?si=e0afdbdc20774a08">
 <img align="left" alt="Aarik's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
@@ -26,6 +26,13 @@
 <a href="https://linkedin.com/in/aarikmudgal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarikmudgal" height="30" width="40" /></a>
 </p>
 </br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarikmudgal&theme=gotham&show_icons=true&locale=en&layout=compact" alt="aarikmudgal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aarikmudgal&theme=gotham&show_icons=true&locale=en" alt="aarikmudgal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarikmudgal&theme=gotham" alt="aarikmudgal" /></p>
+
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <h3 align="left">Languages:</h3>
@@ -76,8 +83,3 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarikmudgal&theme=gotham&show_icons=true&locale=en&layout=compact" alt="aarikmudgal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aarikmudgal&theme=gotham&show_icons=true&locale=en" alt="aarikmudgal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarikmudgal&theme=gotham" alt="aarikmudgal" /></p>
