@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aarik Mudgal</h1>
 <h3 align="center">Hi, I'm Aarik Mudgal, a passionate full-stack developer with expertise in Cloud and DevOps. I recently started playing/experimenting with RaspberryPi and looking for new project ideas.</h3>
 
-
 <a href="https://open.spotify.com/user/lcs99iwztqo54hxdac0gxbk3o?si=e0afdbdc20774a08">
 <img align="left" alt="Aarik's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
@@ -26,6 +25,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/aarikmudgal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarikmudgal" height="30" width="40" /></a>
 </p>
+</br>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <h3 align="left">Languages:</h3>
 
