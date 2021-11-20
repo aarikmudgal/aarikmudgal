@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aarik Mudgal</h1>
-<h3 align="center">I am a passionate full-stack developer with expertise in Cloud and DevOps. I recently started playing/experimenting with RaspberryPi and looking for new project ideas.</h3>
+<h3 align="center">I am a passionate Solutions Architect with expertise in Cloud(Azure & GCP), DevOps and Architecture. I picked up a new hobby with my new RaspberryPi4 and looking for new project ideas.</h3>
 
 <a href="https://open.spotify.com/user/lcs99iwztqo54hxdac0gxbk3o?si=e0afdbdc20774a08">
 <img align="left" alt="Aarik's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
