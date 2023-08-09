@@ -13,8 +13,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aarikmudgal&theme=gotham&show_icons=true&locale=en" alt="aarikmudgal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarikmudgal&theme=gotham" alt="aarikmudgal" /></p>
-
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <h3 align="left">Languages:</h3>
