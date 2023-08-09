@@ -1,23 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aarik Mudgal</h1>
-<h3 align="center">I am a passionate Solutions Architect with expertise in Cloud(Azure & GCP), DevOps and Architecture. I picked up a new hobby with my new RaspberryPi4 and looking for new project ideas.</h3>
-
-<a href="https://open.spotify.com/user/lcs99iwztqo54hxdac0gxbk3o?si=e0afdbdc20774a08">
-<img align="left" alt="Aarik's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=aarikmudgal.aarikmudgal" alt="aarikmudgal" /> </p>
-</br>
+<h3 align="center">I am a passionate Engineering Domain Owner/Solutions Architect with expertise in Cloud(Azure & GCP), DevOps and Architecture. I picked up a new hobby with my new RaspberryPi4 and building several projects.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarikmudgal&theme=onestar" alt="aarikmudgal" /></a> </p>
-
-- 🔭 I’m currently working on **Azure and RaspberryPi**
-
-- 🌱 I’m currently learning **GCP and ML**
-
-- 👯 I’m looking to collaborate on **Azure, GCP and RaspberryPi**
-
-- 🤝 I’m looking for help with **RaspberryPi**
-
-- 💬 Ask me about **Azure, DevOps, SRE**
 
 - 📫 Reach me on **<a href="https://linkedin.com/in/aarikmudgal">LinkedIn<a/>**
 
