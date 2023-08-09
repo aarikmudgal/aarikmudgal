@@ -11,7 +11,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarikmudgal&theme=gotham&show_icons=true&locale=en&layout=compact" alt="aarikmudgal" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aarikmudgal&theme=gotham&show_icons=true&locale=en" alt="aarikmudgal" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=aarikmudgal&theme=gotham&show_icons=true&locale=en" alt="aarikmudgal" /></p>
 
 <img align="left" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
