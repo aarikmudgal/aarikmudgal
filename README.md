@@ -1,17 +1,11 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aarik Mudgal</h1>
 <h3 align="center">I am a passionate Engineering Domain Owner/Solutions Architect with expertise in Cloud(Azure & GCP), DevOps and Architecture. I picked up a new hobby with my new RaspberryPi4 and building several projects.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarikmudgal&theme=onestar" alt="aarikmudgal" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aarikmudgal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarikmudgal" height="30" width="40" /></a>
 </p>
 </br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarikmudgal&theme=gotham&show_icons=true&locale=en&layout=compact" alt="aarikmudgal" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aarikmudgal&theme=gotham&show_icons=true&locale=en" alt="aarikmudgal" /></p>
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
